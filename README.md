@@ -1,3 +1,1 @@
-# git_test
-SALVA PELO AMOR DE DEUS 
-#OLA MUNDO ?
+cara que legal que estou aprendendo a mexer com git hehe
